@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+flask-wtf
+pymysql
+flask-migrate
+py-bcrypt
+Flask-Mail
+Flask-Excel
+pyexcel-xls
+salesforce-python-sdk
